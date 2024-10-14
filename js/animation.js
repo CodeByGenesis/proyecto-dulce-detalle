@@ -1,0 +1,1 @@
+document.querySelector(".icon-hamburguer").addEventListener("click",function(){this.classList.toggle("active")})
